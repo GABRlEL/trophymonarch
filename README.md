@@ -113,6 +113,7 @@ Please follow the following steps for successful usage:
    ```
    SD Card\PACKNAME\Ghosts
    ```
+   You should see lots of entries with IDs now.
 
 3. Open your FolderToTrackName.txt to resolve track names
 
@@ -131,7 +132,7 @@ Please follow the following steps for successful usage:
    ```
    SD Card\PACKNAME\Ghosts\FolderToTrackName.txt
    ```
-   If you can't see track names in this script, please verify that the FolderToTrackName.txt file used is correct current. Contact your pack distributor when in doubt.
+   If you can't see track names after loading translations, please verify that the FolderToTrackName.txt file used is correct and current. Contact your pack distributor when in doubt.
 
 4. (Optional next steps) Edit your trophies to your liking. The game modes for the trophy 1-4 are usually in order like they are ingame.
 
@@ -185,7 +186,7 @@ Unless there's something fundamentally broken with this, I personally don't plan
 
 ## License
 
-I will not provide an actual license for this product, as I'm unsure of the situation with AI generated code. What I can say is, that I don't mind if this tool is forked and improved upon, as long as it stays open-source. I would appreciate if you could atleast credit me for the idea in your project.
+I will not provide an actual license for this product, as I'm unsure of the situation with AI generated code. What I can say is, that I don't mind if this tool is forked and improved upon, as long as it stays open-source. I would appreciate if you could atleast credit me for the idea in your project. If the AI code situation wasn't there, this would probably be GPLv3.
 
 ## Contact
 
