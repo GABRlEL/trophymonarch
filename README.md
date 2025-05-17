@@ -25,7 +25,7 @@ for Time Trials trophies in Pulsar mod distributions
 
 ## About The Project
 
-Trophy Monarch is a tool, which allows the user to edit the trophy values their leaderboard files (ldb.pul) in the Ghosts folder and update the TROP section in the settings file (usually settings.pul) accordingly. The primary purpose of this is, to recover trophies lost caused by Pulsars design choice of storing ghosts in the settings file, which is overwritten when a Pulsar packs settings or tracks are updated. Additionally it can be used, to recover the trophy state from a lost Ghosts folder.
+Trophy Monarch is a tool, which allows the user to edit the trophy values their leaderboard files (ldb.pul) in the Ghosts folder and update the TROP section in the settings file (usually settings.pul) accordingly. The primary purpose of this is, to recover trophies lost caused by Pulsars design choice of storing ghosts in the settings file, which can be overwritten when a Pulsar packs settings or tracks are updated. Additionally it can be used, to recover the trophy state from a lost Ghosts folder.
 
 The tools saves the user from tediously editing the hex manually and checking all leaderboard files manually, prevents human error and serves as a future-proof way for packs with regular updates.
 
@@ -138,6 +138,7 @@ Please follow the following steps for successful usage:
 
    - **Retro Rewind:** Trophy 1 = 150cc, Trophy 2 = 200cc, Trophy 3 = unused, Trophy 4 = unused
    - **IKW:** Trophy 1 = 150cc, Trophy 2 = 200cc, Trophy 3 = 150cc Feather, Trophy 4 = 200cc Feather
+   - **MKWDX:** Trophy 1 = 150cc, Trophy 2 = 200cc, Trophy 3 = unused, Trophy 4 = unused
 
    You can use the Tools menu in the top menu bar for additional functions.
    - "Show Current Trophy Count": This displays how many trophies would be applied in total, if you would modify the settings file with the currently set checkboxes.
